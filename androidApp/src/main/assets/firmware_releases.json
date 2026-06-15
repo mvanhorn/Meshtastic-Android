@@ -189,6 +189,54 @@
   },
   "pullRequests": [
     {
+      "id": "10719",
+      "title": "Pr2.5 tmm hop trimming",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10719",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10718",
+      "title": "Monotonic time & prep for router graceful retirement",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10718",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10717",
+      "title": "Update US LoRa modem preset to region defaults for compliance",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10717",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10715",
+      "title": "Fixes on 0x69 address detection",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10715",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10713",
+      "title": "Fix T1000-E QMA6100P I2C probing",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10713",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10711",
+      "title": "Fix SX126x daemon abort when Tx power exceeds chip limit",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10711",
+      "zip_url": "https://discord.com/invite/meshtastic"
+    },
+    {
+      "id": "10706",
+      "title": "Pr2 tmm basic",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10706",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
+      "id": "10705",
+      "title": "Pr1 nodedb warmstore",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10705",
+      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
+    },
+    {
       "id": "10689",
       "title": "Heltec Vision Master E213: enable 32768hz crystal osc for rtc",
       "page_url": "https://github.com/meshtastic/firmware/pull/10689",
@@ -198,18 +246,6 @@
       "id": "10677",
       "title": "Add native Portduino malloc shim",
       "page_url": "https://github.com/meshtastic/firmware/pull/10677",
-      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
-    },
-    {
-      "id": "10674",
-      "title": "Lora led rx",
-      "page_url": "https://github.com/meshtastic/firmware/pull/10674",
-      "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
-    },
-    {
-      "id": "10671",
-      "title": "Use standard GPS enable pin, for smarter power control on M3",
-      "page_url": "https://github.com/meshtastic/firmware/pull/10671",
       "zip_url": "https://img.shields.io/badge/Flash_this_PR_in_the_Web_Flasher-2C2D3C?style=for-the-badge"
     },
     {
@@ -223,12 +259,6 @@
       "title": "Short circuit invalid nodenum check in ham mode.",
       "page_url": "https://github.com/meshtastic/firmware/pull/10666",
       "zip_url": "s"
-    },
-    {
-      "id": "10665",
-      "title": "Clamp position precision on public / known-keys",
-      "page_url": "https://github.com/meshtastic/firmware/pull/10665",
-      "zip_url": "+43.6 KB"
     },
     {
       "id": "10664",
@@ -270,7 +300,7 @@
       "id": "10618",
       "title": "Feat/mesh beacon",
       "page_url": "https://github.com/meshtastic/firmware/pull/10618",
-      "zip_url": "s"
+      "zip_url": "+115.3 KB"
     },
     {
       "id": "10604",
@@ -279,10 +309,10 @@
       "zip_url": "https://discord.com/invite/meshtastic"
     },
     {
-      "id": "10602",
-      "title": "Mesh node t1 fixes",
-      "page_url": "https://github.com/meshtastic/firmware/pull/10602",
-      "zip_url": "+46.0 KB"
+      "id": "10593",
+      "title": "Rescan I2C on AQ module init",
+      "page_url": "https://github.com/meshtastic/firmware/pull/10593",
+      "zip_url": "+202.5 KB"
     }
   ]
 }
